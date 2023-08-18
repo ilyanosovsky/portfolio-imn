@@ -224,6 +224,7 @@ section {
   font-size: 3rem;
   text-align: center;
   color: #ff4499;
+  margin-bottom: 2rem;
 }
 
 #socials-container {
@@ -239,6 +240,10 @@ section {
 .icon {
   cursor: pointer;
   height: 2rem;
+}
+
+.icon8 {
+    height: 3rem;
 }
 
 /* BUTTONS */
@@ -333,6 +338,9 @@ section {
 .details-container {
   padding: 1.5rem;
   flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   background: white;
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
@@ -390,6 +398,11 @@ article .icon {
   cursor: default;
 }
 
+.descr-icon {
+    display: flex;
+    align-items: center;
+}
+
 /* PROJECTS SECTION */
 
 #projects {
@@ -415,6 +428,12 @@ article .icon {
 .project-btn {
   color: black;
   border-color: rgb(163, 163, 163);
+}
+
+.stack-box {
+    display: flex;
+    justify-content: space-around;
+    margin: 1rem 0;
 }
 
 /* CONTACT */
