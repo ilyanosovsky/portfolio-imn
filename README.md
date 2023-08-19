@@ -33,7 +33,7 @@ This portfolio website serves as a platform to present my background, skills, pr
 ![Desktop Screenshot](./assets/web.png)
 
 ### Mobile Version
-![Mobile Screenshot](./assets/mobile.png)
+<img src="./assets/mobile.png" alt="Mobile Screenshot" width="300">
 
 ## Technologies Used
 
@@ -46,8 +46,6 @@ This portfolio website serves as a platform to present my background, skills, pr
 ## Deployment
 
 The website is deployed using Netlify. You can visit the live website by clicking [here](https://ilyanosovsky.netlify.app/).
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/604fa333-ab43-4941-9ed5-abe188fca272/status)](https://app.netlify.com/sites/604fa333-ab43-4941-9ed5-abe188fca272)
 
 ## Usage
 
@@ -65,5 +63,5 @@ To explore the code, make modifications, and customize the content, follow these
 
 Feel free to get in touch with me! You can reach me via:
 
-- Email: your.email@example.com
+- Email: imnosovsky@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ilyanosovsky/)
