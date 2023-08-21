@@ -27,6 +27,10 @@ p {
   color: #267bca;
 }
 
+#text-descr{
+  color: #90c0ec;
+}
+
 /* TRANSITION */
 
 a,
@@ -215,6 +219,11 @@ section {
   color: #00ffd2;
 }
 
+.section__text__first {
+  text-align: center;
+  color: #267bca;
+}
+
 .section__text__p2 {
   font-size: 1.75rem;
   margin-bottom: 1rem;
@@ -225,6 +234,11 @@ section {
   text-align: center;
   color: #ff4499;
   margin-bottom: 2rem;
+}
+
+#full {
+  /* font-size: 2rem; */
+  font-weight: bold;
 }
 
 #socials-container {
