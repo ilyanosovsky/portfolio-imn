@@ -319,6 +319,7 @@ section {
 
 #about {
   position: relative;
+  height: 100vh;
 }
 
 .about-containers {
@@ -377,6 +378,7 @@ section {
 
 #skills {
   position: relative;
+  height: 100vh;
 }
 
 .skills-sub-title {
@@ -421,6 +423,7 @@ article .icon {
 
 #projects {
   position: relative;
+  height: 100vh;
 }
 
 .color-container {
